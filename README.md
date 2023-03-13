@@ -11,7 +11,7 @@ This library can be used in a variety of contexts, including:
 This library is available on the Deno Third Party Modules repository. You can install it using the following command:
 
 ```
-deno install --allow-net --allow-read --allow-write -n iching_and_astrology https://deno.land/x/i-ching-astrology/mod.ts
+deno install --allow-net --allow-read --allow-write -n iching_and_astrology https://deno.land/x/i_ching_astrology/mod.ts
 ```
 
 ## 🚀 Getting Started

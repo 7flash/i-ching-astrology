@@ -96,7 +96,7 @@ export const signPositionToHexagramLine =
                         edgeSign = signs.aquarius;
                         break;
                     case signs.pisces:
-                        edgeSign = signs.taurus;
+                        edgeSign = signs.aries;
                         break;
                     default:
                         throw 'Unexpected Sign'
